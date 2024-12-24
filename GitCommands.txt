@@ -1,0 +1,14 @@
+i1. To download the git in the terminal     # apt-get install git
+2. To start the git in terminal             git init
+3. To add the updated file                  git add
+4. To see the difference in present file    git diff
+and previous file
+5. To see git in our terminal or not        git 
+6. To commit the changes in git             git commit -m "this is my first version"
+7. If you want previous version not the     git reset --hard copy the commitment id and paste
+   present version 
+8. To show the commit logs                 git logs
+9. To see the branches                     git branch
+10. To create a new branch                 git branch -b branch name 
+11. To retrive back the uncommite comments git stash pop
+
